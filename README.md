@@ -1,11 +1,19 @@
-## 🐍 Python Studies
+# 🐍 Python Studies
 
-Repositório dedicado ao armazenamento de exercícios, scripts e projetos desenvolvidos durante minha jornada de aprendizado em Python.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
 
-## 📌 Conteúdo do Repositório
+This repository is dedicated to storing exercises, scripts, and projects developed during my Python learning journey.
 
-O aprendizado está organizado por tópicos para facilitar a consulta, conforme for aprendendo, vou adicionando conteúdo nas pastas.
 
-## 🛠️ Tecnologias e Ferramentas
-- Python
-- VS Code
+## 📌 Repository Content
+
+The learning material is organized by topics for easy reference. As I progress, new content is added to the specific folders.
+
+
+## 🛠️ Technologies and Tools
+
+* **Python:** Core language used for all scripts.
+* **VS Code:** Main code editor used for development.
+
+
